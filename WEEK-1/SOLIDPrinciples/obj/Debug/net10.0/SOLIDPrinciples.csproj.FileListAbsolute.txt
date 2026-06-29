@@ -1,0 +1,14 @@
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.exe
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.deps.json
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.runtimeconfig.json
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.dll
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.pdb
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.AssemblyInfoInputs.cache
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.AssemblyInfo.cs
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.dll
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\refint\SOLIDPrinciples.dll
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.pdb
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.genruntimeconfig.cache
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\ref\SOLIDPrinciples.dll

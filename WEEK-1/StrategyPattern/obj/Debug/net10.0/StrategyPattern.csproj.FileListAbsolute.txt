@@ -1,0 +1,14 @@
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\StrategyPattern\bin\Debug\net10.0\StrategyPattern.exe
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\StrategyPattern\bin\Debug\net10.0\StrategyPattern.deps.json
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\StrategyPattern\bin\Debug\net10.0\StrategyPattern.runtimeconfig.json
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\StrategyPattern\bin\Debug\net10.0\StrategyPattern.dll
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\StrategyPattern\bin\Debug\net10.0\StrategyPattern.pdb
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\StrategyPattern\obj\Debug\net10.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\StrategyPattern\obj\Debug\net10.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\StrategyPattern\obj\Debug\net10.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\StrategyPattern\obj\Debug\net10.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\StrategyPattern\obj\Debug\net10.0\StrategyPattern.dll
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\StrategyPattern\obj\Debug\net10.0\refint\StrategyPattern.dll
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\StrategyPattern\obj\Debug\net10.0\StrategyPattern.pdb
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\StrategyPattern\obj\Debug\net10.0\StrategyPattern.genruntimeconfig.cache
+C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\StrategyPattern\obj\Debug\net10.0\ref\StrategyPattern.dll
