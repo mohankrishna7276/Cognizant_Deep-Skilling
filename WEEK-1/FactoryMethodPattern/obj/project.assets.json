@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
+      "projectUniqueName": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
       "projectName": "FactoryMethodPattern",
-      "projectPath": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
+      "projectPath": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
       "packagesPath": "C:\\Users\\mohan krishna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\FactoryMethodPattern\\obj\\",
+      "outputPath": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\FactoryMethodPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohan krishna\\AppData\\Roaming\\NuGet\\NuGet.Config"

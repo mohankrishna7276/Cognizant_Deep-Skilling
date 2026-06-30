@@ -12,3 +12,18 @@ C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\BuilderPattern\obj\Debug\net10.0\
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\BuilderPattern\obj\Debug\net10.0\BuilderPattern.pdb
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\BuilderPattern\obj\Debug\net10.0\BuilderPattern.genruntimeconfig.cache
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\BuilderPattern\obj\Debug\net10.0\ref\BuilderPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\bin\Debug\net10.0\BuilderPattern.exe
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\bin\Debug\net10.0\BuilderPattern.deps.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\bin\Debug\net10.0\BuilderPattern.runtimeconfig.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\bin\Debug\net10.0\BuilderPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\bin\Debug\net10.0\BuilderPattern.pdb
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\obj\Debug\net10.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\obj\Debug\net10.0\BuilderPattern.AssemblyInfoInputs.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\obj\Debug\net10.0\BuilderPattern.AssemblyInfo.cs
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\obj\Debug\net10.0\BuilderPattern.csproj.CoreCompileInputs.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\obj\Debug\net10.0\BuilderPattern.sourcelink.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\obj\Debug\net10.0\BuilderPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\obj\Debug\net10.0\refint\BuilderPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\obj\Debug\net10.0\BuilderPattern.pdb
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\obj\Debug\net10.0\BuilderPattern.genruntimeconfig.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\BuilderPattern\obj\Debug\net10.0\ref\BuilderPattern.dll

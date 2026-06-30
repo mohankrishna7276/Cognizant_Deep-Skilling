@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\CommandPattern\\CommandPattern.csproj": {}
+    "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\CommandPattern\\CommandPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\CommandPattern\\CommandPattern.csproj": {
+    "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\CommandPattern\\CommandPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\CommandPattern\\CommandPattern.csproj",
+        "projectUniqueName": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\CommandPattern\\CommandPattern.csproj",
         "projectName": "CommandPattern",
-        "projectPath": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\CommandPattern\\CommandPattern.csproj",
+        "projectPath": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\CommandPattern\\CommandPattern.csproj",
         "packagesPath": "C:\\Users\\mohan krishna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\CommandPattern\\obj\\",
+        "outputPath": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\CommandPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohan krishna\\AppData\\Roaming\\NuGet\\NuGet.Config"

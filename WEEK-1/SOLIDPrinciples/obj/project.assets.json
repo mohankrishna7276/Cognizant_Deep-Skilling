@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
+      "projectUniqueName": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
       "projectName": "SOLIDPrinciples",
-      "projectPath": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
+      "projectPath": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
       "packagesPath": "C:\\Users\\mohan krishna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\SOLIDPrinciples\\obj\\",
+      "outputPath": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\SOLIDPrinciples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohan krishna\\AppData\\Roaming\\NuGet\\NuGet.Config"

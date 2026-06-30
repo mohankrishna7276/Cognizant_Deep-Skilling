@@ -12,3 +12,18 @@ C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\FactoryMethodPattern\obj\Debug\ne
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.pdb
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.genruntimeconfig.cache
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\FactoryMethodPattern\obj\Debug\net10.0\ref\FactoryMethodPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.exe
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.deps.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.runtimeconfig.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.pdb
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.AssemblyInfo.cs
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.sourcelink.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\obj\Debug\net10.0\refint\FactoryMethodPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.pdb
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.genruntimeconfig.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\FactoryMethodPattern\obj\Debug\net10.0\ref\FactoryMethodPattern.dll

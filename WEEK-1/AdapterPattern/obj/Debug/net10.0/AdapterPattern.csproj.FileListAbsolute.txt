@@ -12,3 +12,18 @@ C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\AdapterPattern\obj\Debug\net10.0\
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\AdapterPattern\obj\Debug\net10.0\AdapterPattern.pdb
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\AdapterPattern\obj\Debug\net10.0\AdapterPattern.genruntimeconfig.cache
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\AdapterPattern\obj\Debug\net10.0\ref\AdapterPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\bin\Debug\net10.0\AdapterPattern.exe
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\bin\Debug\net10.0\AdapterPattern.deps.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\bin\Debug\net10.0\AdapterPattern.runtimeconfig.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\bin\Debug\net10.0\AdapterPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\bin\Debug\net10.0\AdapterPattern.pdb
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\obj\Debug\net10.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\obj\Debug\net10.0\AdapterPattern.AssemblyInfoInputs.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\obj\Debug\net10.0\AdapterPattern.AssemblyInfo.cs
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\obj\Debug\net10.0\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\obj\Debug\net10.0\AdapterPattern.sourcelink.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\obj\Debug\net10.0\AdapterPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\obj\Debug\net10.0\refint\AdapterPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\obj\Debug\net10.0\AdapterPattern.pdb
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\obj\Debug\net10.0\AdapterPattern.genruntimeconfig.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\AdapterPattern\obj\Debug\net10.0\ref\AdapterPattern.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\SingletonPattern\\SingletonPattern.csproj",
+      "projectUniqueName": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\SingletonPattern\\SingletonPattern.csproj",
       "projectName": "SingletonPattern",
-      "projectPath": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\SingletonPattern\\SingletonPattern.csproj",
+      "projectPath": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\SingletonPattern\\SingletonPattern.csproj",
       "packagesPath": "C:\\Users\\mohan krishna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\SingletonPattern\\obj\\",
+      "outputPath": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\SingletonPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohan krishna\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -12,3 +12,18 @@ C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.pdb
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.genruntimeconfig.cache
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\ref\SOLIDPrinciples.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.exe
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.deps.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.runtimeconfig.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.pdb
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.AssemblyInfoInputs.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.AssemblyInfo.cs
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.csproj.CoreCompileInputs.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.sourcelink.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\refint\SOLIDPrinciples.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.pdb
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.genruntimeconfig.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SOLIDPrinciples\obj\Debug\net10.0\ref\SOLIDPrinciples.dll

@@ -12,3 +12,18 @@ C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\CommandPattern\obj\Debug\net10.0\
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\CommandPattern\obj\Debug\net10.0\CommandPattern.pdb
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\CommandPattern\obj\Debug\net10.0\CommandPattern.genruntimeconfig.cache
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\CommandPattern\obj\Debug\net10.0\ref\CommandPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\bin\Debug\net10.0\CommandPattern.exe
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\bin\Debug\net10.0\CommandPattern.deps.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\bin\Debug\net10.0\CommandPattern.runtimeconfig.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\bin\Debug\net10.0\CommandPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\bin\Debug\net10.0\CommandPattern.pdb
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\obj\Debug\net10.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\obj\Debug\net10.0\CommandPattern.AssemblyInfoInputs.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\obj\Debug\net10.0\CommandPattern.AssemblyInfo.cs
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\obj\Debug\net10.0\CommandPattern.csproj.CoreCompileInputs.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\obj\Debug\net10.0\CommandPattern.sourcelink.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\obj\Debug\net10.0\CommandPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\obj\Debug\net10.0\refint\CommandPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\obj\Debug\net10.0\CommandPattern.pdb
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\obj\Debug\net10.0\CommandPattern.genruntimeconfig.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\CommandPattern\obj\Debug\net10.0\ref\CommandPattern.dll

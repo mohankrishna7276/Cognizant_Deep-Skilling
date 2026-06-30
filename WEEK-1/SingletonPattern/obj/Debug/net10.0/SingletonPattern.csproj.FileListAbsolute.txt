@@ -12,3 +12,18 @@ C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SingletonPattern\obj\Debug\net10.
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SingletonPattern\obj\Debug\net10.0\SingletonPattern.pdb
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SingletonPattern\obj\Debug\net10.0\SingletonPattern.genruntimeconfig.cache
 C:\Users\mohan krishna\OneDrive\Desktop\WEEK-1\SingletonPattern\obj\Debug\net10.0\ref\SingletonPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\bin\Debug\net10.0\SingletonPattern.exe
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\bin\Debug\net10.0\SingletonPattern.deps.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\bin\Debug\net10.0\SingletonPattern.runtimeconfig.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\bin\Debug\net10.0\SingletonPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\bin\Debug\net10.0\SingletonPattern.pdb
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\obj\Debug\net10.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\obj\Debug\net10.0\SingletonPattern.AssemblyInfoInputs.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\obj\Debug\net10.0\SingletonPattern.AssemblyInfo.cs
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\obj\Debug\net10.0\SingletonPattern.csproj.CoreCompileInputs.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\obj\Debug\net10.0\SingletonPattern.sourcelink.json
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\obj\Debug\net10.0\SingletonPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\obj\Debug\net10.0\refint\SingletonPattern.dll
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\obj\Debug\net10.0\SingletonPattern.pdb
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\obj\Debug\net10.0\SingletonPattern.genruntimeconfig.cache
+D:\CTS\CTS_Deep_Skilling\WEEK-1\SingletonPattern\obj\Debug\net10.0\ref\SingletonPattern.dll

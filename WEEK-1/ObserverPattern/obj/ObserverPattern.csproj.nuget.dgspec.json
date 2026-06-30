@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\ObserverPattern\\ObserverPattern.csproj": {}
+    "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\ObserverPattern\\ObserverPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\ObserverPattern\\ObserverPattern.csproj": {
+    "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\ObserverPattern\\ObserverPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\ObserverPattern\\ObserverPattern.csproj",
+        "projectUniqueName": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\ObserverPattern\\ObserverPattern.csproj",
         "projectName": "ObserverPattern",
-        "projectPath": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\ObserverPattern\\ObserverPattern.csproj",
+        "projectPath": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\ObserverPattern\\ObserverPattern.csproj",
         "packagesPath": "C:\\Users\\mohan krishna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohan krishna\\OneDrive\\Desktop\\WEEK-1\\ObserverPattern\\obj\\",
+        "outputPath": "D:\\CTS\\CTS_Deep_Skilling\\WEEK-1\\ObserverPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohan krishna\\AppData\\Roaming\\NuGet\\NuGet.Config"
