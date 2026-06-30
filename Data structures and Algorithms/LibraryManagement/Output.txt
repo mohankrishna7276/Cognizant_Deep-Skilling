@@ -1,0 +1,31 @@
+===== Library Management System =====
+
+1. Add Book
+2. Search Book
+3. Delete Book
+4. Display Books
+5. Exit
+
+Enter Choice: 1
+
+Enter Book ID: 101
+Enter Title: Clean Code
+Enter Author: Robert Martin
+
+Book Added Successfully.
+
+Enter Book ID: 101
+
+Book Found
+ID: 101
+Title: Clean Code
+Author: Robert Martin
+
+------ Library Books ------
+
+ID: 101
+Title: Clean Code
+Author: Robert Martin
+---------------------------
+
+

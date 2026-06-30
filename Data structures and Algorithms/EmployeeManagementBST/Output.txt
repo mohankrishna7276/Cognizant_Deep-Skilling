@@ -1,0 +1,39 @@
+===== Employee Management =====
+
+1. Display Employees
+2. Search Employee
+3. Exit
+
+Enter Choice : 1
+
+Employee List (Sorted)
+
+--------------------------------
+ID : 101
+Name : Rahul
+Department : HR
+Salary : ₹50000
+
+--------------------------------
+ID : 103
+Name : Anjali
+Department : Testing
+Salary : ₹60000
+
+--------------------------------
+ID : 105
+Name : Mohan
+Department : AI
+Salary : ₹80000
+
+--------------------------------
+ID : 108
+Name : Kiran
+Department : Development
+Salary : ₹85000
+
+--------------------------------
+ID : 110
+Name : Priya
+Department : Finance
+Salary : ₹90000

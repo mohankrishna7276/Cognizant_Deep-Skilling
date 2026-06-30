@@ -1,0 +1,34 @@
+===== Task Management System =====
+
+1. Add Task
+2. Display Tasks
+3. Search Task
+4. Delete Task
+5. Exit
+
+Enter Choice: 1
+
+Enter Task ID: 101
+Enter Task Name: Complete CTS Assignment
+Enter Status: Pending
+
+Task Added Successfully.
+
+------ Task List ------
+
+Task ID : 101
+Task Name : Complete CTS Assignment
+Status : Pending
+-------------------------
+
+Enter Task ID: 101
+
+Task Found
+
+Task ID : 101
+Task Name : Complete CTS Assignment
+Status : Pending
+
+Enter Task ID: 101
+
+Task Deleted Successfully.

@@ -1,0 +1,18 @@
+namespace TaskManagement
+{
+    public class TaskItem
+    {
+        public int TaskId { get; set; }
+
+        public string TaskName { get; set; }
+
+        public string Status { get; set; }
+
+        public TaskItem(int id, string name, string status)
+        {
+            TaskId = id;
+            TaskName = name;
+            Status = status;
+        }
+    }
+}

@@ -1,0 +1,13 @@
+===== E-Commerce Search =====
+
+Enter Product ID : 103
+
+Linear Search
+
+Product : Keyboard
+Price : ₹1500
+
+Binary Search
+
+Product : Keyboard
+Price : ₹1500

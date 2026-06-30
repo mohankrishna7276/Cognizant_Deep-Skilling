@@ -1,0 +1,53 @@
+===== Customer Order Sorting =====
+
+Original Orders
+
+Order ID : 101
+Customer : Mohan
+Amount   : ₹2500
+
+Order ID : 102
+Customer : Rahul
+Amount   : ₹1200
+
+Order ID : 103
+Customer : Priya
+Amount   : ₹5000
+
+Order ID : 104
+Customer : Anjali
+Amount   : ₹800
+
+Order ID : 105
+Customer : Kiran
+Amount   : ₹3500
+
+Choose Sorting Algorithm
+
+1. Bubble Sort
+2. Insertion Sort
+
+Enter Choice : 1
+
+Sorted Output:
+
+Order ID : 104
+Customer : Anjali
+Amount   : ₹800
+
+Order ID : 102
+Customer : Rahul
+Amount   : ₹1200
+
+Order ID : 101
+Customer : Mohan
+Amount   : ₹2500
+
+Order ID : 105
+Customer : Kiran
+Amount   : ₹3500
+
+Order ID : 103
+Customer : Priya
+Amount   : ₹5000
+
